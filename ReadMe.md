@@ -6,8 +6,7 @@
 
 2. Copy [`create-venv-project-here.ps1`](./create-venv-project-here.ps1) to that folder
 
-3. Run [`create-venv-project-here.ps1`](./create-venv-project-here.ps1)
+3. Run [`create-venv-project-here.ps1`](./create-venv-project-here.ps1).  This will create a Python virtual environment along with a `main.py` and `requirements.txt` file.  The virtual environment may also be activated but sometimes VS Code has to be restarted.
 
 4. Delete  [`create-venv-project-here.ps1`](./create-venv-project-here.ps1)
 
-This will create a Python virtual environment along with a `main.py` and `requirements.txt` file.  The virtual environment may also be activated but sometimes VS Code has to be restared.
