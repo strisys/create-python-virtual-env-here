@@ -2,7 +2,7 @@
 
 [This is a simple PowerShell script](./src/create-venv-project-here.ps1) to create a [Python virtual environment project](https://docs.python.org/3/tutorial/venv.html).  Python version 3.3 or above is required.  The steps to use this file are as follows:
 
-1. Create a project folder and copy [`./src/create-venv-project-here.ps1`](./create-venv-project-here.ps1) to it
+1. Create a project folder and copy [`create-venv-project-here.ps1`](./src/create-venv-project-here.ps1) to it
 
 2. Run [`create-venv-project-here.ps1`](./src/create-venv-project-here.ps1) 
 
@@ -20,5 +20,14 @@
 
    ![create-venv-1](./images/create-venv-1.png)
 
-3. Delete  [`./src/create-venv-project-here.ps1`](./create-venv-project-here.ps1)
+3. Delete  `create-venv-project-here.ps1`
+
+   ```bash
+   del create-venv-project-here.ps1
+   ```
+
+   
+
+   
+
 
