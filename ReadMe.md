@@ -18,7 +18,7 @@
 
    The result will be a [Python virtual environment](https://docs.python.org/3/tutorial/venv.html) along with an empty `main.py` and `requirements.txt` file.  The virtual environment may also be activated by default but sometimes VS Code has to be restarted for this to happen.
 
-   ![create-venv-1](./images/create-venv-1.png)
+   ![create-venv-1](./docs/create-venv-1.png)
 
 3. Simply delete `create-venv-project-here.ps1` as its not longer needed.
 
